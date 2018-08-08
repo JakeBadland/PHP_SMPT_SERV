@@ -6,7 +6,3 @@ Just run it from cmd like "php index.php"
 
 Also You'll need to make sure what you'r php.ini contain line like this:
 extension=php_sockets.dll
-without ";"
-NOT LIKE:
-;extension=php_sockets.dll
-!!!
